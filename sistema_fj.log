@@ -1,0 +1,6 @@
+[2026-11-20 13:28:16] [INFO] Registrado: Cliente C01: Ana Gómez (ana@gmail.com)
+[2026-11-20 13:28:16] [ERROR] Correo inválido: correo_sin_arroba.com
+[2026-11-20 13:28:16] [ERROR] La tarifa debe ser mayor a cero.
+[2026-11-20 13:28:16] [INFO] Reserva R01 | Ana Gómez | Sala Ejecutiva | Total: $160650.0 | CONFIRMADA
+[2026-11-20 13:28:16] [ERROR] Fallo al procesar reserva R02 -> Causa: El servicio S01 ya está ocupado.
+[2026-11-20 13:28:16] [ERROR] Fallo al procesar reserva R03 -> Causa: Los equipos se alquilan mínimo por 2 horas.
